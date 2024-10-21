@@ -11,6 +11,15 @@
 Research Computing and Software Development
 ===============================================================================
 
+.. image:: https://img.shields.io/github/stars/borisbolliet/ResearchComputing?style=social
+   :alt: GitHub stars
+   :target: https://github.com/borisbolliet/ResearchComputing
+
+.. image:: https://readthedocs.org/projects/researchcomputing/badge/?version=latest
+   :target: https://researchcomputing.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
+
 
 | *Author*: Boris Bolliet
 
@@ -39,9 +48,9 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/lecture2/notebook.ipynb#Knowing-your-environment>`_                  |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 16, October                    | Part 3: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_      |
+| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_      |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 18, October                    | Part 4: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                      |
+| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                      |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 
